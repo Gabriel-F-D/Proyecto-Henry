@@ -1,0 +1,14 @@
+.detailImg{
+    background-image: url('../../imageLP/snoopy.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: contain;
+}
+
+.containerFlex{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+}
+
